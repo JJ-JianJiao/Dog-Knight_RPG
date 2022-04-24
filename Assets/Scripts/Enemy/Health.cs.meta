@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f48da7cbeedc89247b6268ea018b3668
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RockMan: {instanceID: 0}
+  - Orc: {instanceID: 0}
+  - Turtle: {instanceID: 0}
+  - map: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
